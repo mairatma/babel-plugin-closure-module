@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-closure-module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A plugin that helps integrate closure modules into babel projects.",
   "license": "MIT",
   "repository": "mairatma/babel-plugin-closure-module",
